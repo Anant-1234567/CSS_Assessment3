@@ -1,0 +1,158 @@
+body {
+    background-color: dimgrey;
+    
+
+}
+
+
+.one {
+    width: 420px;
+    height: 150px;
+    border:8px solid red;
+    text-align: center;
+    border-radius: 15px;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    padding-bottom: 10px;
+    background-color: white;
+    box-shadow: 8px 8px blueviolet;
+    margin-top: 0px;
+    
+}
+.flex-container {
+    width: 1320px;
+    height: 680px;
+    border: 5px solid green;
+}
+.flex-item1 {
+    width: 250px;
+    height: 250px;
+    border: 8px solid red;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 8px 8px blueviolet;
+   
+    
+}
+.flex-item2 {
+    width: 250px;
+    height: 250px;
+    border: 8px solid red;
+    position: absolute;
+    left: 1000px;
+    bottom: 167px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 8px 8px blueviolet;
+    
+    
+}
+.flex-item3 {
+    width: 250px;
+    height: 250px;
+    border: 8px solid red;
+    position: absolute;
+    top: 600px;
+    border-radius: 15px;
+    margin: 3px;
+    background-color: white;
+    box-shadow: 8px 8px blueviolet;
+    
+    
+    
+}
+.flex-item4 {
+    width: 250px;
+    height: 250px;
+    border: 8px solid red;
+    position:absolute;
+    left: 1000px;
+    top: 610px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 8px 8px blueviolet;   
+}
+    
+    
+
+.fixedpart1 {
+    color: red;
+    padding-left: 25px;
+    font-style: italic;
+    
+
+   
+}
+.fixedpart2 {
+    color: red;
+    padding-left: 90px;
+    position: absolute;
+    bottom: 4px;
+    font-style: italic;
+    
+}
+.fixedpart3 {
+    color: red;
+    padding-left: 40px;
+    position: absolute;
+    top: 4px;
+    font-style: italic;
+}
+.fixedpart4 {
+    color:rgb(241, 21, 21);
+    padding-left: 10px;
+    position: absolute;
+    bottom: 5px;
+    font-style: italic;
+}
+.flex-part {
+    height: 630px;
+    width: 800px;
+    border:5px solid blueviolet;
+    margin-left: 250px;
+    position: relative;
+    background-color: green;
+    margin-top: 15px;
+    
+}
+.flex-part1 {
+    width: 385px;
+    height: 250px;
+    border: 1px solid white;
+    margin-top: 33px;
+    background-color:khaki;
+    margin-left: 5px;
+
+}
+.flex-part2 {
+    width: 395px;
+    height: 250px;
+    border: 1px solid white;
+    position:absolute;
+    top: 90px;
+    margin-left: 400px;
+    background-color: khaki;
+}
+.flex-part3 {
+    width: 800px;
+    height: 260px;
+    border: 1px solid white;
+    margin-top: 15px;
+    background-color:khaki;
+    margin-left: 3px;
+}
+
+.fixed {
+    height: 100px;
+    width: 500px;
+    border: 8px solid red;
+    background-color: greenyellow;
+    border-radius: 20px;
+    position: fixed;
+    top: 20px;
+    margin-left: 350px;
+    margin-top: 450px;
+    box-shadow: 8px 8px blueviolet;
+
+}    
